@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Minjung's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
--------
 <br>
+ 
 ### 👋 Hello, I'm Minjung Sung
 <p>
   <a href="https://github.com/minjungsung" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
