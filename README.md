@@ -83,13 +83,17 @@
 
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:minjungsung1994@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/minjung0527">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-   <a href="https://github.com/minjungsung" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/minjung-sung-2bb6b0117/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:minjungsung1994@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+  </a>
+  <a href="https://www.instagram.com/minjung0527">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
+  </a>
+  <a href="https://github.com/minjungsung" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/minjung-sung-2bb6b0117/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </div><br>
 
