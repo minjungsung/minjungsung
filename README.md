@@ -5,11 +5,6 @@
 <br>
  
 ## 👋 Hello, I'm Minjung Sung
-<p>
-  <a href="https://github.com/minjungsung" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/minjung-sung-2bb6b0117/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:minjungsung1994@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
 
 <p>
   👩‍💻&nbsp; Hi there! I'm a <b>full stack developer</b> with 5 years of experience in software development and engineering. I am proficient in overseeing the design and development of web and mobile applications, APIs, and backend systems, leveraging the latest technologies and best practices. I am passionate about continuously staying updated with industry trends, emerging technologies, and the competitive landscape.<br/><br/>
@@ -94,5 +89,7 @@
     <a href="https://www.instagram.com/minjung0527">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+   <a href="https://github.com/minjungsung" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/minjung-sung-2bb6b0117/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div><br>
 
