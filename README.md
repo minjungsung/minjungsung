@@ -27,3 +27,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
+
+### 📊 Github Stats
+[![Minjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjungsung)](https://github.com/minjungsung/github-readme-stats)
+
