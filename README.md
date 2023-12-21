@@ -80,9 +80,6 @@
 
 ### 📊 Github Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minjungsung&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="500">
-</div>
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjungsung&layout=compact" width="500">
 </div>
 
