@@ -78,11 +78,6 @@
 </div><br>
 </div>
 
-### 📊 Github Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjungsung&layout=compact" width="500">
-</div>
-
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:minjungsung1994@gmail.com">
