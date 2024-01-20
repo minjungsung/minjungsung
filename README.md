@@ -10,7 +10,7 @@
   👩‍💻&nbsp; Hi there! I'm a <b>full stack developer</b> with 5 years of experience in software development and engineering. I am proficient in overseeing the design and development of web and mobile applications, APIs, and backend systems, leveraging the latest technologies and best practices. I am passionate about continuously staying updated with industry trends, emerging technologies, and the competitive landscape.<br/><br/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=minjungsung&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=minjungsung&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)<br/>
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=minjungsung&layout=compact&theme=dracula)
 
 ### 🛠 Skills
