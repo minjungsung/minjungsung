@@ -1,0 +1,27 @@
+on:
+  schedule:
+    - cron: '5 15 * * *' # 매일 UTC 15:05(한국 시간 00:05)에 자동 실행
+  workflow_dispatch: # Actions 탭에서 수동 실행 가능하게 함
+
+jobs:
+  single-commit:
+    runs-on: ubuntu-latest # Ubuntu 최신 버전에서 워크플로우 실행
+    permissions:
+      contents: write # 저장소에 쓰기 권한 부여(커밋/푸시 위해 필요)
+    steps:
+      - uses: actions/checkout@v4 # 저장소의 코드를 워크플로우 러너에 체크아웃(복제)
+      - name: Set up git config
+        run: |
+          git config --global user.email "minjungsung1994@gmail.com"
+          git config --global user.name "Minjung Sung"
+    
+      - name: Pull latest changes
+        run: git pull --rebase   # 원격 저장소의 최신 커밋을 받아와 로컬과 동기화(푸시 충돌 방지)
+    
+      - name: Make empty commit with KST date
+        run: |
+          export TZ=Asia/Seoul   # 시간대를 한국 표준시(KST)로 지정
+          git commit --allow-empty --date="$(date '+%a %b %d %H:%M:%S %Y +0900')" -m "auto commit $(date '+%Y-%m-%d %H:%M:%S')"
+          git push               # 원격 저장소로 푸시(GITHUB_TOKEN 인증 사용)
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}   # git push 인증에 사용할 GitHub 제공 토큰
