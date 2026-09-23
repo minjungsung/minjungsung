@@ -13,6 +13,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=minjungsung&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)<br/>
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=minjungsung&layout=compact&theme=dracula)
 
+### 🔥 Featured Project
+
+<a href="https://github.com/minjungsung/hackdigest">
+  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/pin/?username=minjungsung&repo=hackdigest&theme=dracula" />
+</a>
+
+**[HackDigest](https://minjungsung.github.io/hackdigest/)** — AI-summarized daily news digest for Tech, Stocks & Real Estate. 100% serverless, $0/month.
+
+`Python` `GitHub Actions` `Cloudflare Workers` `Groq LLM` `Gmail SMTP`
+
 ### 🛠 Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
