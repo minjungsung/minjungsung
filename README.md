@@ -65,6 +65,30 @@ AI-powered language learning through podcast-style content.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[💃 TangoMBTI](https://tango-mbti.vercel.app)** — AI Personality Match
+<br/>
+MBTI-based compatibility and personality analysis app.
+<br/><br/>
+`TypeScript` `React` `Vercel`
+<br/>
+[Try it →](https://tango-mbti.vercel.app)
+
+</td>
+<td width="50%">
+
+**[💼 Portfolio](https://portfolio-frontend-silk.vercel.app)** — Personal Site
+<br/>
+Full stack portfolio with backend API and interactive UI.
+<br/><br/>
+`TypeScript` `React` `Node.js` `Vercel`
+<br/>
+[Visit →](https://portfolio-frontend-silk.vercel.app)
+
+</td>
+</tr>
 </table>
 
 ---
