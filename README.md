@@ -1,130 +1,147 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:6994CD,100:a855f7&text=Minjung%20Sung&animation=twinkling&height=230&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Building%20things%20that%20ship%20themselves&descSize=16&descAlignY=55&descColor=ffffffaa)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6366f1,100:a855f7&text=&height=150)
+
+# Minjung Sung
+
+**AI Engineer · Full Stack Developer · MLOps**
+
+`LLM` `RAG` `Computer Vision` `React` `Python` `TypeScript` `AWS` `Serverless`
+
+[![Gmail](https://img.shields.io/badge/-minjungsung1994-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:minjungsung1994@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-minjung--sung-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjung-sung-2bb6b0117/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-frontend-silk.vercel.app)
 
 </div>
 
+---
+
+I build AI-powered products end-to-end — from training pipelines to production APIs to the frontends people actually use. Currently shipping serverless AI services that run at $0/month.
+
+---
+
+### 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+**[🔥 HackDigest](https://minjungsung.github.io/hackdigest/)** — AI News Digest
 <br/>
-
-<div align="center">
-
-```
- $ whoami
- → full-stack dev · 5+ yrs · Seoul, Korea
- → building serverless AI products that cost $0/month
- → python by day, side projects by night
-```
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ FEATURED PROJECT ═══════════════════════ -->
-
-<div align="center">
-
-## 🔥 Latest Ship
-
-<a href="https://minjungsung.github.io/hackdigest/">
-<img src="https://img.shields.io/badge/🔥_HackDigest-AI_News_Digest-ff6600?style=for-the-badge&labelColor=1a1b27" />
-</a>
-
-**Daily AI-summarized news for Tech · Stocks · Real Estate**
-<br/>
-Groq LLM → 3-sentence summaries → your inbox every morning
-<br/>
-`100% Serverless` `$0/month` `GitHub Actions` `Cloudflare Workers`
+Daily LLM-summarized news for Tech, Stocks & Real Estate. Fully automated with GitHub Actions + Groq API.
 <br/><br/>
+`Python` `Groq LLM` `Cloudflare Workers` `GitHub Actions`
+<br/>
+[Subscribe](https://minjungsung.github.io/hackdigest/) · [Source](https://github.com/minjungsung/hackdigest) · [Discussions](https://github.com/minjungsung/hackdigest/discussions)
 
-[**Subscribe →**](https://minjungsung.github.io/hackdigest/)
-&nbsp;&nbsp;|&nbsp;&nbsp;
-[**Source →**](https://github.com/minjungsung/hackdigest)
-&nbsp;&nbsp;|&nbsp;&nbsp;
-[**Discussions →**](https://github.com/minjungsung/hackdigest/discussions)
+</td>
+<td width="50%">
+
+**[🔍 VisionRAG](https://github.com/minjungsung/visionRAG)** — Multimodal RAG
+<br/>
+Retrieval-Augmented Generation with vision models. Document understanding beyond text.
+<br/><br/>
+`Python` `RAG` `Computer Vision` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🏠 House Scanner](https://house-scanner.vercel.app/)** — Real Estate Analytics
+<br/>
+Smart property search and analysis platform.
+<br/><br/>
+`TypeScript` `React` `Vercel`
+
+</td>
+<td width="50%">
+
+**[🌐 LingoCast](https://web-theta-pied-48.vercel.app)** — Language Learning
+<br/>
+AI-powered language learning through podcast-style content.
+<br/><br/>
+`Kotlin` `TypeScript` `Vercel`
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ Tech
+
+<div align="center">
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Full Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+**Infrastructure & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sand-six-91.vercel.app/api?username=minjungsung&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&hide=stars&bg_color=0d1117" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=minjungsung&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&langs_count=8" height="160"/>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-
 <div align="center">
 
-<img src="https://github-readme-stats-sand-six-91.vercel.app/api?username=minjungsung&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&hide=stars&bg_color=1a1b27" height="170"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minjungsung&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" height="170"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minjungsung&theme=tokyo-night&hide_border=true&radius=10&bg_color=0d1117&color=6366f1&line=a855f7&point=ffffff&area=true&area_color=6366f1)](https://github.com/minjungsung)
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
+---
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minjungsung&theme=tokyo-night&hide_border=true&radius=12&bg_color=1a1b27&color=6994CD&line=a855f7&point=ffffff)](https://github.com/minjungsung)
+![](https://komarev.com/ghpvc/?username=minjungsung&color=6366f1&style=flat-square&label=visitors)
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-<div align="center">
-
-### ⚡ Stack
-
-<table>
-<tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"/><br><sub>Python</sub></td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript"/><br><sub>TypeScript</sub></td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript"/><br><sub>JavaScript</sub></td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java"/><br><sub>Java</sub></td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React"/><br><sub>React</sub></td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL"/><br><sub>MySQL</sub></td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS"/><br><sub>AWS</sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub"/><br><sub>GitHub</sub></td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker"/><br><sub>Docker</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/><br><sub>Spring</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/><br><sub>Flask</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare"/><br><sub>Cloudflare</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br><sub>Firebase</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br><sub>Linux</sub></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minjungsung1994@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjung-sung-2bb6b0117/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/minjung0527)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=minjungsung&color=6994CD&style=flat-square&label=visitors)
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6994CD,100:a855f7&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=80&section=footer)
