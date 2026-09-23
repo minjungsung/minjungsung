@@ -1,7 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6366f1,100:a855f7&text=&height=150)
-
 # Minjung Sung
 
 **AI Engineer · Full Stack Developer · MLOps**
@@ -144,7 +142,7 @@ Full stack portfolio with backend API and interactive project showcase.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minjungsung&theme=tokyo-night&hide_border=true&radius=10&bg_color=0d1117&color=6366f1&line=a855f7&point=ffffff&area=true&area_color=6366f1)](https://github.com/minjungsung)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minjungsung&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117" />
 
 </div>
 
@@ -155,5 +153,3 @@ Full stack portfolio with backend API and interactive project showcase.
 ![](https://komarev.com/ghpvc/?username=minjungsung&color=6366f1&style=flat-square&label=visitors)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=80&section=footer)
