@@ -50,16 +50,16 @@ Retrieval-Augmented Generation with vision models. Document understanding beyond
 
 **[🏠 House Scanner](https://house-scanner.vercel.app/)** — Real Estate Analytics
 <br/>
-Smart property search and analysis platform.
+Smart property search and analysis platform with data-driven insights.
 <br/><br/>
 `TypeScript` `React` `Vercel`
 
 </td>
 <td width="50%">
 
-**[🌐 LingoCast](https://web-theta-pied-48.vercel.app)** — Language Learning
+**[🌐 LingoCast](https://web-theta-pied-48.vercel.app)** — AI Language Learning
 <br/>
-AI-powered language learning through podcast-style content.
+Language learning through AI-generated podcast-style content.
 <br/><br/>
 `Kotlin` `TypeScript` `Vercel`
 
@@ -68,9 +68,9 @@ AI-powered language learning through podcast-style content.
 <tr>
 <td width="50%">
 
-**[💃 TangoMBTI](https://tango-mbti.vercel.app)** — AI Personality Match
+**[💃 TangoMBTI](https://tango-mbti.vercel.app)** — Personality Match
 <br/>
-MBTI-based compatibility and personality analysis app.
+MBTI-based compatibility and personality analysis powered by AI.
 <br/><br/>
 `TypeScript` `React` `Vercel`
 <br/>
@@ -81,7 +81,7 @@ MBTI-based compatibility and personality analysis app.
 
 **[💼 Portfolio](https://portfolio-frontend-silk.vercel.app)** — Personal Site
 <br/>
-Full stack portfolio with backend API and interactive UI.
+Full stack portfolio with backend API and interactive project showcase.
 <br/><br/>
 `TypeScript` `React` `Node.js` `Vercel`
 <br/>
@@ -137,18 +137,6 @@ Full stack portfolio with backend API and interactive UI.
 <img src="https://github-readme-stats-sand-six-91.vercel.app/api?username=minjungsung&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&hide=stars&bg_color=0d1117" height="160"/>
 &nbsp;
 <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=minjungsung&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&langs_count=8" height="160"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake.svg" />
-</picture>
 
 </div>
 
