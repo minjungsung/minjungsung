@@ -132,9 +132,7 @@ Full stack portfolio with backend API and interactive project showcase.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sand-six-91.vercel.app/api?username=minjungsung&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&hide=stars&bg_color=0d1117" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=minjungsung&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&langs_count=8" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minjungsung&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117" />
 
 </div>
 
@@ -142,7 +140,7 @@ Full stack portfolio with backend API and interactive project showcase.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minjungsung&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117" />
+<img src="https://raw.githubusercontent.com/minjungsung/minjungsung/output/github-snake-dark.svg" alt="snake animation" />
 
 </div>
 
