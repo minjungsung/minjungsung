@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write # 저장소에 쓰기 권한 부여(커밋/푸시 위해 필요)
     steps:
-      - uses: actions/checkout@v4 # 저장소의 코드를 워크플로우 러너에 체크아웃(복제)
+      - uses: actions/checkout@v7 # 저장소의 코드를 워크플로우 러너에 체크아웃(복제)
       - name: Set up git config
         run: |
           git config --global user.email "minjungsung1994@gmail.com"
