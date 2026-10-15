@@ -18,6 +18,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
       - name: Push wiki pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
