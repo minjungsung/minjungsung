@@ -13,7 +13,7 @@ jobs:
   validate-dependencies:
     permissions:
       contents: read
-    uses: minjungsung/.github/.github/workflows/dependency-validation.yml@bc75215fd512d65213a14b4165901e966d6841f2
+    uses: minjungsung/.github/.github/workflows/dependency-validation.yml@9811a21e89d8a63363b24db2917f23db0925a01c
     with:
       pr-author: dependabot[bot]
       projects-json: '[{"name":"github-actions","ecosystem":"github-actions","path":".","timeout-minutes":5}]'
